@@ -1,0 +1,11 @@
+.container {
+  min-width: 320px;
+  margin: 0 30px;
+  max-width: 1260px;
+  
+  @include desk-1260 {
+    padding: 0 124px 0 120px;
+    margin: 0 auto;
+  }
+
+}
