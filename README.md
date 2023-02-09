@@ -1,6 +1,6 @@
 # Landing page: MyBike #
 
-[Link](https://boriskerekesha.github.io/myBike/)
+[Link](https://boryskerekesha.github.io/myBike/)
 
 ***
 ### Adaptive landing page for: #
